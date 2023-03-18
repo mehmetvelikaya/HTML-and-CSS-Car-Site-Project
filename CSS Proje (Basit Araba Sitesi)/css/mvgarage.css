@@ -1,0 +1,40 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    font-family: Fantasy;
+    color:steelblue;
+}
+
+h2 {
+    font-family: Fantasy;
+    color:steelblue;
+}
+
+h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
+    color: gold;
+}
+
+h4 {
+    font-family: serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+ul {
+    color: azure;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    width="598" height="336" ;
+  }
